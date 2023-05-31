@@ -9,7 +9,6 @@ To run this project locally, you will need:
 - Node.js
 - Docker and Docker-compose
 - PostgreSQL (through Docker)
-- pgAdmin (through Docker)
 
 ## Configuration
 
